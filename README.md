@@ -1,2 +1,2 @@
 # -Personal-Webpage
-# Going to make progression while learning
+Going to make progressions in the future
